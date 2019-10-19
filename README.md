@@ -67,3 +67,7 @@ Hacktoberfest Classroom Project 2019
 > coding is easy,when you are earning swags for them!!!
 ---
 
+### Amaya
+[InduAmaya](https://github.com/InduAmaya/)
+> I love coding...
+---
